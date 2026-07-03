@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="center">
+  <a href="https://commit-history.com/marefr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/marefr?theme=dark" />
+      <img alt="marefr's commit history" src="https://commit-history.com/embed/marefr" />
+    </picture>
+  </a>
+</div>
+
 <!--
 **marefr/marefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
